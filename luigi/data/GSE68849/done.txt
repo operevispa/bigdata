@@ -1,0 +1,6 @@
+Пайплайн завершен.
+ Временные файлы удалены:
+ - data/GSE68849.tar
+ - data/GSE68849/extracts.txt
+ - data/GSE68849/GPL10558_HumanHT-12_V4_0_R1_15002873_B/GPL10558_HumanHT-12_V4_0_R1_15002873_B.txt
+ - data/GSE68849/GPL10558_HumanHT-12_V4_0_R2_15002873_B/GPL10558_HumanHT-12_V4_0_R2_15002873_B.txt
